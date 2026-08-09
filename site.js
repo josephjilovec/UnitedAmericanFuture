@@ -1,4 +1,36 @@
 (()=>{
+  const mastheadStyle=document.createElement('style');
+  mastheadStyle.textContent=`
+    @media (min-width:901px){
+      .global-header{
+        height:132px;
+        display:grid;
+        grid-template-columns:1fr;
+        grid-template-rows:76px 50px;
+        justify-items:center;
+        padding:0 4vw;
+      }
+      .global-header .logo-link{
+        width:230px;
+        align-self:end;
+        justify-self:center;
+      }
+      .global-header .logo-link img{
+        height:66px;
+        object-position:center center;
+      }
+      .global-header nav{
+        align-self:start;
+        justify-self:center;
+        gap:clamp(24px,3vw,44px);
+      }
+      .page-hero{
+        padding-top:210px;
+      }
+    }
+  `;
+  document.head.appendChild(mastheadStyle);
+
   const menuButton=document.querySelector('.menu');
   const nav=document.querySelector('.global-header nav');
 
