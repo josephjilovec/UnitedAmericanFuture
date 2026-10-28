@@ -1,0 +1,335 @@
+{
+  "notice": "AI-generated fictional concept images. No real UAF sites, staff, operations, clients or partners are depicted.",
+  "images": [
+    {
+      "id": "keystone-hero",
+      "initiative": "keystone-foundry",
+      "kind": "hero",
+      "generation_method": "built-in image_gen",
+      "concept_only": true,
+      "prompt": "Use case: photorealistic-natural. Asset type: wide high-resolution website hero, 16:9 landscape composition. Create a premium editorial concept photograph for United American Future's proposed Keystone Foundry Project: the interior of an imagined modern American electric steelmaking facility, viewed from a safe elevated observation platform. Convincing industrial scale, structural steel bays, overhead gantry cranes, an enclosed furnace area with a restrained warm amber glow, organized material handling and realistic equipment, cool navy shadows and natural daylight entering clerestory windows. Main industrial activity toward the right; quieter dark structural space on the left for website headline overlay. Technically plausible architecture and safe separation; any distant workers have appropriate protective gear and remain behind barriers. This is a fictional future facility, not a photograph of a real company or a completed project. No company branding, logos, flags, readable signs, text, watermarks or data overlays. Avoid extravagant sparks, unsafe close proximity to molten metal, science-fiction machinery or dystopian smoke. Photographic realism, credible materials and sober infrastructure editorial quality.",
+      "original_sha256": "3a8b7cfbe7ca16f679b1fc7e4036fb812bfdee782c2259079b952d04e5fbdd68",
+      "original_dimensions": {
+        "width": 1672,
+        "height": 941
+      },
+      "variants": [
+        {
+          "path": "assets/initiatives/keystone-foundry/hero-640.webp",
+          "width": 640,
+          "height": 360,
+          "bytes": 63358
+        },
+        {
+          "path": "assets/initiatives/keystone-foundry/hero-960.webp",
+          "width": 960,
+          "height": 540,
+          "bytes": 124862
+        },
+        {
+          "path": "assets/initiatives/keystone-foundry/hero-1600.webp",
+          "width": 1600,
+          "height": 900,
+          "bytes": 268358
+        }
+      ]
+    },
+    {
+      "id": "keystone-detail",
+      "initiative": "keystone-foundry",
+      "kind": "detail",
+      "generation_method": "built-in image_gen",
+      "concept_only": true,
+      "prompt": "Use case: photorealistic-natural. Asset type: high-resolution landscape editorial photograph, 3:2. Create an imagined industrial materials quality-control scene for a proposed public-interest manufacturing research initiative. A clean but convincingly used steel testing workshop with a few steel sample coupons on a workbench; one anonymous adult technician wearing clear safety glasses and appropriate work gloves uses a mechanical caliper to examine a sample. Show the hands, sample and tool clearly in the foreground, with the technician partly visible at the right and blurred industrial windows and testing equipment behind. Natural cool daylight with subtle warm metal reflections, realistic skin, gloves, tools and steel textures. Human proportions and hand/tool geometry must be believable. The picture illustrates a possible research and workforce setting, not existing UAF staff or actual laboratory capabilities. No logos, company uniforms, badges, readable measurement numbers, screens with invented data, text or watermark. Restrained, professional editorial photography, distinct from a wide factory image.",
+      "original_sha256": "f66beceb8c0a413c6a7ccd81dd6568774b3861b734506b58ab297663c8e2d225",
+      "original_dimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "variants": [
+        {
+          "path": "assets/initiatives/keystone-foundry/detail-640.webp",
+          "width": 640,
+          "height": 427,
+          "bytes": 40158
+        },
+        {
+          "path": "assets/initiatives/keystone-foundry/detail-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 71622
+        },
+        {
+          "path": "assets/initiatives/keystone-foundry/detail-1600.webp",
+          "width": 1536,
+          "height": 1024,
+          "bytes": 133996
+        }
+      ]
+    },
+    {
+      "id": "mobility-hero",
+      "initiative": "connected-communities",
+      "kind": "hero",
+      "generation_method": "built-in image_gen",
+      "concept_only": true,
+      "prompt": "Use case: photorealistic-natural. Asset: high-resolution wide 16:9 website hero for the proposed Connected Communities Mobility Program. An imagined midsize American neighborhood corridor showing a believable, well-designed complete street: broad level sidewalks, protected bike lane separated by low planters, one clear pedestrian crossing with accessible curb ramps and tactile warning paving, shaded bus stop and small shops, mature street trees, a few ordinary adult pedestrians and cyclists at natural distances. Quiet, welcoming late-afternoon daylight, realistic concrete, brick and street materials. View from an elevated sidewalk corner, main visual interest on the right and calmer space at left for headline overlay. Right-hand traffic, sensible road geometry, no people walking in a vehicle lane, no chaotic traffic or extravagant futuristic technology. This is a fictional planning visualization, not an actual completed municipal project. No readable signs, logos, agency branding, giant text, watermarks or data graphics. Premium municipal-infrastructure editorial photography.",
+      "original_sha256": "4f5923bc944bac4efffaf3bc02f191bbf548ea0737ad18718f9c31b0677a8d83",
+      "original_dimensions": {
+        "width": 1672,
+        "height": 941
+      },
+      "variants": [
+        {
+          "path": "assets/initiatives/connected-communities/hero-640.webp",
+          "width": 640,
+          "height": 360,
+          "bytes": 70584
+        },
+        {
+          "path": "assets/initiatives/connected-communities/hero-960.webp",
+          "width": 960,
+          "height": 540,
+          "bytes": 143722
+        },
+        {
+          "path": "assets/initiatives/connected-communities/hero-1600.webp",
+          "width": 1600,
+          "height": 900,
+          "bytes": 316620
+        }
+      ]
+    },
+    {
+      "id": "mobility-detail",
+      "initiative": "connected-communities",
+      "kind": "detail",
+      "generation_method": "built-in image_gen",
+      "concept_only": true,
+      "prompt": "Use case: photorealistic-natural. Asset: high-resolution 3:2 landscape editorial image for an accessibility and first/last-mile mobility concept. An ordinary adult wheelchair user seen mostly from behind travels along a broad, level, shaded urban sidewalk toward a bus stop with a clear boarding pad. The person is using their own wheelchair independently in a dignified everyday scene. Show the practical infrastructure: smooth pavement, a sensible accessible curb transition, clear pedestrian space, separated bicycle lane beyond a low planted buffer, small neighborhood buildings in soft focus. Natural daylight, warm urban textures, realistic wheelchair geometry and human anatomy. Do not put the person in a bike lane or active roadway. No official uniforms, brands, readable street signs, text, logos or watermarks. Imagined city and people, illustrating a possible design goal, not UAF participants or measured accessibility outcomes.",
+      "original_sha256": "bea7837795650e9845ebb05593f57aa9e2f2dd8aeb71bf4c110728a4c3db7e93",
+      "original_dimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "variants": [
+        {
+          "path": "assets/initiatives/connected-communities/detail-640.webp",
+          "width": 640,
+          "height": 427,
+          "bytes": 61916
+        },
+        {
+          "path": "assets/initiatives/connected-communities/detail-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 110400
+        },
+        {
+          "path": "assets/initiatives/connected-communities/detail-1600.webp",
+          "width": 1536,
+          "height": 1024,
+          "bytes": 206332
+        }
+      ]
+    },
+    {
+      "id": "skyway-hero",
+      "initiative": "skyway",
+      "kind": "hero",
+      "generation_method": "built-in image_gen",
+      "concept_only": true,
+      "prompt": "Use case: photorealistic-natural. Asset: wide high-resolution 16:9 website hero for a proposed public-interest aerial logistics readiness program. An imagined rural American community clinic and adjacent controlled drone ground-test area. A technically plausible compact electric cargo multicopter rests on a simple marked pad at the right, rotors stationary, carrying a small closed cargo case, with a modest clinic and distant regional landscape behind. One anonymous technician in ordinary workwear stands safely outside the marked test area, not underneath or touching propellers. Clean professional infrastructure, natural early-morning light, navy and soft cream tones, broad landscape composition with quiet space at the left for headline copy. Fictional ground demonstration, not an operational airline, patient transport or confirmed medical service. No hospital or aircraft company logos, official badges, military features, patient faces, readable labels, text or watermark. Photographic editorial realism, no science-fiction vehicle.",
+      "original_sha256": "fbcbeabef3bf547dd24d25b9ab5971a880658cb3fcbf08de8c2f250eaf6a3bea",
+      "original_dimensions": {
+        "width": 1672,
+        "height": 941
+      },
+      "variants": [
+        {
+          "path": "assets/initiatives/skyway/hero-640.webp",
+          "width": 640,
+          "height": 360,
+          "bytes": 46636
+        },
+        {
+          "path": "assets/initiatives/skyway/hero-960.webp",
+          "width": 960,
+          "height": 540,
+          "bytes": 94996
+        },
+        {
+          "path": "assets/initiatives/skyway/hero-1600.webp",
+          "width": 1600,
+          "height": 900,
+          "bytes": 208756
+        }
+      ]
+    },
+    {
+      "id": "skyway-detail",
+      "initiative": "skyway",
+      "kind": "detail",
+      "generation_method": "built-in image_gen",
+      "concept_only": true,
+      "prompt": "Use case: photorealistic-natural. Asset: high-resolution landscape 3:2 editorial photograph for a proposed medical-logistics study. In an imagined clean logistics preparation room, two gloved hands check the latch of a small closed insulated transport case next to a compact generic temperature logger. Show a careful physical handoff and packaging workflow; the contents are not visible and no biological specimen, medication, patient information or readable label appears. Bright natural window light, realistic practical plastics, stainless steel and work surface, slightly blurred exterior test pad through a distant window. An anonymous adult technician may be partly visible in plain workwear, no branded uniform. Credible human hands and tools. This is conceptual imagery for readiness and traceability, not actual UAF shipments, healthcare staff or certified cold-chain performance. No logos, readable data screens, text or watermark.",
+      "original_sha256": "d18f10349389365862341e90c8545aaa4c69220b3f14d998bb57d06bf8522d24",
+      "original_dimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "variants": [
+        {
+          "path": "assets/initiatives/skyway/detail-640.webp",
+          "width": 640,
+          "height": 427,
+          "bytes": 26840
+        },
+        {
+          "path": "assets/initiatives/skyway/detail-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 47990
+        },
+        {
+          "path": "assets/initiatives/skyway/detail-1600.webp",
+          "width": 1536,
+          "height": 1024,
+          "bytes": 100138
+        }
+      ]
+    },
+    {
+      "id": "watershed-hero",
+      "initiative": "watershed",
+      "kind": "hero",
+      "generation_method": "built-in image_gen",
+      "concept_only": true,
+      "prompt": "Use case: photorealistic-natural. Asset: wide high-resolution 16:9 website hero for the proposed Continental Watershed and River Restoration Initiative. An imagined American urban-edge river corridor with a broad riparian buffer, native grasses, mature trees, modest restored-looking banks and a floodplain that connects naturally to surrounding land. A small town and an existing bridge are far in the background so this reads as a community water system, not an untouched national park. Natural blue-brown river water, believable hydrology and terrain, soft clear morning light, rich but realistic vegetation. Composition follows the river into the distance with quieter shaded landscape at left for headline overlay. No people, machinery or buildings in the water; no dramatic before-and-after, miraculous water purification, new dams or fantasy canals. Concept photograph, not a documented restoration result or UAF-owned site. No labels, logos, text or watermark.",
+      "original_sha256": "181d42ee92f2ecdbd9e7e94560fa3aafb13205e6036833c91c4f264ff012c1c8",
+      "original_dimensions": {
+        "width": 1672,
+        "height": 941
+      },
+      "variants": [
+        {
+          "path": "assets/initiatives/watershed/hero-640.webp",
+          "width": 640,
+          "height": 360,
+          "bytes": 72422
+        },
+        {
+          "path": "assets/initiatives/watershed/hero-960.webp",
+          "width": 960,
+          "height": 540,
+          "bytes": 161248
+        },
+        {
+          "path": "assets/initiatives/watershed/hero-1600.webp",
+          "width": 1600,
+          "height": 900,
+          "bytes": 386358
+        }
+      ]
+    },
+    {
+      "id": "watershed-detail",
+      "initiative": "watershed",
+      "kind": "detail",
+      "generation_method": "built-in image_gen",
+      "concept_only": true,
+      "prompt": "Use case: photorealistic-natural. Asset: high-resolution 3:2 landscape editorial photograph for watershed baseline research. An imagined field hydrologist wearing appropriate outdoor workwear, boots and gloves stands securely on a stable accessible riverbank and checks a compact water-quality probe beside a small sample bottle on a portable case. Calm shallow stream, realistic bank vegetation and an existing small bridge behind, thoughtful low-impact fieldwork. Focus on the equipment, hands and landscape context, with the person's face not prominent. No person standing in hazardous current, no equipment drilling into protected habitat, no readable scientific result, patient information, official agency patches or company branding. Natural daylight, restrained documentary-style photography, credible materials and anatomy. Clearly a fictional fieldwork concept rather than an actual UAF sampling event, certified water-quality result or existing monitoring network. No text or watermark.",
+      "original_sha256": "60f8200e15c5b223152238789bf7592993d0ab63098446b51253358bb08159e9",
+      "original_dimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "variants": [
+        {
+          "path": "assets/initiatives/watershed/detail-640.webp",
+          "width": 640,
+          "height": 427,
+          "bytes": 78326
+        },
+        {
+          "path": "assets/initiatives/watershed/detail-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 140166
+        },
+        {
+          "path": "assets/initiatives/watershed/detail-1600.webp",
+          "width": 1536,
+          "height": 1024,
+          "bytes": 257322
+        }
+      ]
+    },
+    {
+      "id": "heritage-hero",
+      "initiative": "heritage-ecosystems",
+      "kind": "hero",
+      "generation_method": "built-in image_gen",
+      "concept_only": true,
+      "prompt": "Use case: photorealistic-natural. Asset: wide high-resolution 16:9 website hero for a proposed Heritage Ecosystems Initiative. An imagined American pine-and-hardwood forest landscape at warm sunrise, a quiet well-established footpath leads through mature trees toward a distant ridge, healthy understory, natural fallen wood and believable ecology. Any monitoring hardware is tiny and unobtrusive: at most one discreet matte-green sensor housing attached to an existing trail post, physically subordinate to the landscape. Deep forest shadows at the left allow a white headline overlay; beautiful natural light opens toward the right. No wildfire, emergency scene, giant towers, surveillance grid, crowds, official park signs, recognizable protected landmark, uniforms or insignia. This is a fictional conservation-planning vision, not an actual UAF field site or government partnership. Premium landscape editorial photography, realistic colors, no text, logo or watermark.",
+      "original_sha256": "a6c4bb88102f47aec38a5bbf87d038ccb60a8b80d8550a27fb4004320c7df97f",
+      "original_dimensions": {
+        "width": 1672,
+        "height": 941
+      },
+      "variants": [
+        {
+          "path": "assets/initiatives/heritage-ecosystems/hero-640.webp",
+          "width": 640,
+          "height": 360,
+          "bytes": 87522
+        },
+        {
+          "path": "assets/initiatives/heritage-ecosystems/hero-960.webp",
+          "width": 960,
+          "height": 540,
+          "bytes": 186348
+        },
+        {
+          "path": "assets/initiatives/heritage-ecosystems/hero-1600.webp",
+          "width": 1600,
+          "height": 900,
+          "bytes": 430912
+        }
+      ]
+    },
+    {
+      "id": "heritage-detail",
+      "initiative": "heritage-ecosystems",
+      "kind": "detail",
+      "generation_method": "built-in image_gen",
+      "concept_only": true,
+      "prompt": "Use case: photorealistic-natural. Asset: high-resolution landscape 3:2 editorial photograph for a low-impact land-stewardship planning program. Two anonymous adult field stewards in plain outdoor clothing examine drainage and mild erosion beside an existing forest trail, using a small notebook and a simple measuring staff. One kneels safely at the trail edge while the other observes; faces are unobtrusive. Show realistic soil, roots, leaves, a modest existing drainage feature and sensitive placement of feet and tools, with the surrounding forest visually dominant. No digging, damage to living trees, official ranger uniforms, government badges, agency logos, fake wildfire alerts, readable location coordinates, species-location data or text. Natural soft daylight and grounded documentary photographic realism. The scene is imagined research and stewardship work, not UAF employees, an authorized park operation or a measured restoration result. No watermark.",
+      "original_sha256": "570ea01771bd4249e4bb3d01714f6bd51775f324bba9d027557fd62e5d7d2573",
+      "original_dimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "variants": [
+        {
+          "path": "assets/initiatives/heritage-ecosystems/detail-640.webp",
+          "width": 640,
+          "height": 427,
+          "bytes": 114294
+        },
+        {
+          "path": "assets/initiatives/heritage-ecosystems/detail-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 221710
+        },
+        {
+          "path": "assets/initiatives/heritage-ecosystems/detail-1600.webp",
+          "width": 1536,
+          "height": 1024,
+          "bytes": 437064
+        }
+      ]
+    }
+  ]
+}

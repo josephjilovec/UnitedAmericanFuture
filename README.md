@@ -31,3 +31,12 @@ See `assets/rail/README.md` for provenance. Supplied rail imagery is illustrativ
 This public source contains truthful positioning, concept descriptions, evidence limits, media attribution and maintenance code. Internal business plans, budget assumptions, bid strategy, governance/IP planning, blank work instruments and unchanged original user materials are maintained in the private venture repository. No private operating engine or sensitive client dataset is added to this public site.
 
 No build dependencies are required to serve the website. Use standard HTML/asset/anchor, CSS/JavaScript syntax and responsive browser checks after edits. A local preview configuration and `dist` QA harness are not publication files.
+
+
+## NC–02 through NC–06 expansion
+
+Each national capacity initiative has a dedicated concept page, a distinct domain-specific study story, two clearly labeled AI concept images, proposed first deliverables, delivery responsibilities, decision gates, and evidence limits. New routes are `/initiatives/keystone-foundry`, `/initiatives/connected-communities`, `/initiatives/skyway`, `/initiatives/watershed`, and `/initiatives/heritage-ecosystems`. Existing Iron Corridor content remains in place.
+
+`initiatives.css` holds the shared program presentation; `initiative-contact.js` supports the six whitelisted program fragments and optional query parameters without changing the form transport. General contact defaults to Volunteer. Public pages, metadata, sitemap, and image provenance are part of this update. Sensitive business plans, bid logic, budget inputs, and internal controls are held in the separate private repository, not in this public source.
+
+All six programs are concepts. No organizational/tax status, award, professional authority, selected site, sponsor, delivered impact, or funding is verified by publication. Contribution destinations and existing form endpoints are unchanged. See [image provenance](assets/initiatives/README.md) and [the image manifest](assets/initiatives/images.json).
