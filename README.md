@@ -12,7 +12,7 @@ Static, multi-page civic-organization concept website served through the existin
 - `/impact`, `/transparency`: honest project status and organizational reporting context.
 - `/get-involved`, `/contact`, `/donate`: participation, introductory inquiries, and existing contribution information.
 
-Canonical domain: https://unitedamericanfuture.josephjilovec.com
+Canonical domain: https://unitedamericanfuture.summithillholdings.com
 
 ## Maintenance
 

@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://unitedamericanfuture.josephjilovec.com/sitemap.xml
+Sitemap: https://unitedamericanfuture.summithillholdings.com/sitemap.xml
 

@@ -69,7 +69,7 @@
       data.set('_url',window.location.href);
 
       try{
-        const response=await fetch('https://formsubmit.co/ajax/realjjemail@gmail.com',{
+        const response=await fetch('https://summithillholdings.com/api/inquiry?venture=united-american-future',{
           method:'POST',
           headers:{Accept:'application/json'},
           body:data
